@@ -1,0 +1,26 @@
+# Starting compiling UnityEngine.TestRunner.dll
+E:\Unity\2020.3.35f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-e6f4f48cb2f136d4783a9712c3c0e087
+# Starting compiling UnityEngine.UI.dll
+E:\Unity\2020.3.35f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-a777a2364272fed4aac2573b0297d2d0
+# Starting compiling Unity.InternalAPIEngineBridge.001.dll
+E:\Unity\2020.3.35f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-18a825fdaa068a64794f29386ef5ec1f
+# Starting compiling Unity.2D.PixelPerfect.dll
+E:\Unity\2020.3.35f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-e22ea869f07bdbc43883d6945ff86411
+# Starting compiling Unity.Timeline.dll
+E:\Unity\2020.3.35f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-a117833dc8560c84abfce812170c93b9
+# Starting compiling Unity.TextMeshPro.dll
+E:\Unity\2020.3.35f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-800457293f6c6304eb370396ba5a9d13
+# Starting compiling Unity.Mathematics.dll
+E:\Unity\2020.3.35f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-953b7813f9d11794ba5e038960e82c20
+# Starting compiling Unity.2D.IK.Runtime.dll
+E:\Unity\2020.3.35f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-a718c8da5d2cf14438b1a20cae42984f
+# Starting compiling Unity.2D.Common.Runtime.dll
+E:\Unity\2020.3.35f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-b3b98ac390e45864eace7eb305a1fb0c
+# Starting compiling Unity.Notifications.Android.dll
+E:\Unity\2020.3.35f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-81201475f30395547a77d50daebe5603
+# Starting compiling Unity.2D.Animation.Runtime.dll
+E:\Unity\2020.3.35f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-591ab3eea861cb749803a5c43b02f7ff
+# Starting compiling Unity.2D.SpriteShape.Runtime.dll
+E:\Unity\2020.3.35f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-626f8e5740fc6864c8f26fc078c4668e
+# Starting compiling Assembly-CSharp.dll
+E:\Unity\2020.3.35f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-a3a148f2123e4d943934be5d7ca4bf65
